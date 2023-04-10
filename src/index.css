@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bbtt{
+    background-image: url(./Images/hero.jpg);
+    height: 717px;
+    width: 100%;
+    
+}
